@@ -1,0 +1,13 @@
+side smashes *
+Directional Bs *
+tilt *
+jumping *
+Short hop *
+Directional dodging *
+Wave dash *doesn't work correctly, not air dodging fast enough
+
+
+
+
+
+
